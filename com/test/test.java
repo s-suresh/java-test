@@ -1,14 +1,19 @@
 package com.test;
 
-import java.utils.Hashset;
+import java.util.HashSet;
 class test{
     public static void  main(String[] args) {
         Student s1= new Student();
         Library L1=new Library();
+
+        HashSet set =new HashSet();
+        set.add(78);
+        set.add(78);
+
     }
-    Hashset set = new Hashset();
-    set.add(56)
-    set.add(78)
+
+
+
 
 
 }
